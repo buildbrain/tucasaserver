@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+        "cloud_name": "tu-casa",
+        "api_key": "798981818365442",
+        "api_secret": "QU05dyHAgZDdbXwiqBH47vG4u5g"
+    }
+}
